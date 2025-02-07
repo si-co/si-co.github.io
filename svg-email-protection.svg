@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     lang="en-GB"
+     aria-labelledby="title"
+     viewBox="0 0 200 24">
+
+  <title id="title">Email Us!</title>
+
+  <defs>
+
+  <style type="text/css"><![CDATA[
+
+  rect {
+    width: 200px;
+    height: 24px;
+    fill: rgb(255, 255, 255);
+  }
+
+  text {
+    font-size: 16px;
+    fill: rgb(0, 0, 255);
+    pointer-events: none;
+  }
+
+
+  ]]></style>
+
+  </defs>
+
+  <a href="mailto:simone.colombo@epfl.ch">
+    <rect />
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">simone.colombo@epfl.ch</text>
+  </a>
+
+</svg>
