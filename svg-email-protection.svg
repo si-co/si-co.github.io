@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      lang="en-GB"
      aria-labelledby="title"
-     viewBox="0 0 200 24">
+     viewBox="0 0 210 24">
 
   <title id="title">Email Us!</title>
 
@@ -10,14 +10,14 @@
   <style type="text/css"><![CDATA[
 
   rect {
-    width: 200px;
+    width: 210px;
     height: 24px;
-    fill: rgb(255, 255, 255);
+    fill: rgb(0, 0, 0);
   }
 
   text {
     font-size: 16px;
-    fill: rgb(0, 0, 255);
+    fill: rgb(136, 204, 255);
     pointer-events: none;
   }
 
